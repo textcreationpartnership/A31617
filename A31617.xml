@@ -1,0 +1,863 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Cabinet of choice jewels, or, The Christians joy and gladness set forth in sundry pleasant new Christmas-cards.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31617</idno>
+            <idno type="STC">Wing C187</idno>
+            <idno type="STC">ESTC R37456</idno>
+            <idno type="EEBO-CITATION">16959101</idno>
+            <idno type="OCLC">ocm 16959101</idno>
+            <idno type="VID">105465</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31617)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105465)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1611:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Cabinet of choice jewels, or, The Christians joy and gladness set forth in sundry pleasant new Christmas-cards.</title>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M. for J. Deacon ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This may be printed. R.P."</note>
+                  <note>Contains additional illustrated t.p., with woodcut showing the Nativity of Jesus.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Carols, English.</term>
+               <term>Christmas --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105465:1" rendition="simple:additions"/>
+            <p>A <hi>CABINET</hi> of Choice Jewels: OR, <hi>The Chriſtians Joy and Gladneſs.</hi>
+            </p>
+            <p>Set forth in ſundry Pleaſant New <hi>Chriſtmas-Carrols.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of a Nativity scene with the three Kings</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be Printed.</p>
+                        <closer>
+                           <signed>R. P.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed by <hi>J. M.</hi> for <hi>J. Deacon,</hi> at the <hi>Angel,</hi> in <hi>Gilt-Spur-Street,</hi> without <hi>Newgate.</hi> 1688.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:105465:2"/>
+            <pb facs="tcp:105465:2"/>
+            <p>A CABINET OF Choice JEVVELS: OR, THE Chriſtians Joy and Gladneſs.</p>
+            <p>Set forth in ſundry Pleaſant New <hi>Chriſtmas Carrols,</hi> Being Material for the moſt Remarkable Days betwixt <hi>Chriſtmas</hi> and <hi>Eaſter.</hi>
+            </p>
+            <p>
+               <hi>Very pleaſant for thoſe times and Seaſons.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Deacon,</hi> at the <hi>Angel</hi> in <hi>Gilt-Spur-Street,</hi> without <hi>Newgate.</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="seasonal_carols">
+            <pb facs="tcp:105465:3"/>
+            <pb facs="tcp:105465:3"/>
+            <head>A <hi>Cabinet of Choice Iewels:</hi> OR, THE CHRISTIANS Joy and Gladneſs.</head>
+            <div type="part">
+               <head>
+                  <hi>A</hi> Carrol <hi>for</hi> CHRISTMAS-Day.</head>
+               <opener>Tune is, <hi>The Pious Chriſtians Exhortation.</hi>
+               </opener>
+               <lg>
+                  <l>LET Chriſtians now with Joyful Mirth,</l>
+                  <l>both young and old, yea great and ſmall,</l>
+                  <l>Still think upon our Saviours Birth,</l>
+                  <l>who brought Salvation to us all.</l>
+               </lg>
+               <lg>
+                  <l>And thus the Lord his Son did ſend,</l>
+                  <l>whom cruel Jews did hold in ſcorn,</l>
+                  <l>No pompous train did there attend</l>
+                  <l>this King of Kings when he was born.</l>
+               </lg>
+               <lg>
+                  <pb n="2" facs="tcp:105465:4"/>
+                  <l>No Palace but an Oxes Stall,</l>
+                  <l>the place of his Nativity,</l>
+                  <l>Methinks this might inſtruct us all,</l>
+                  <l>to learn of him Humility.</l>
+               </lg>
+               <lg>
+                  <l>The great Redeemer of Mankind,</l>
+                  <l>was born the five and twentieth day</l>
+                  <l>Of <hi>December,</hi> then let us mind,</l>
+                  <l>his bleſſed power to obey.</l>
+               </lg>
+               <lg>
+                  <l>'Twas in the City of <hi>David</hi> then</l>
+                  <l>as holy Scriptures makes appear;</l>
+                  <l>And the time of Taxing, when</l>
+                  <l>they came all round from far and near.</l>
+               </lg>
+               <lg>
+                  <l>The Virgin <hi>Mary</hi> then by name,</l>
+                  <l>and <hi>Joſeph</hi> moſt exceeding kind;</l>
+                  <l>When they unto the City came,</l>
+                  <l>no habitation could they find,</l>
+               </lg>
+               <lg>
+                  <l>But in an Oxes ſtall, where they</l>
+                  <l>continued while this bleſſed morn,</l>
+                  <l>Let us rejoyce and keep this day,</l>
+                  <l>whereon the Lord of Life was born.</l>
+               </lg>
+               <lg>
+                  <l>Upon this day let none be found,</l>
+                  <l>to practice any idle game,</l>
+                  <l>And though thy mirth do much abound,</l>
+                  <l>yet let it not be ſo prophane,</l>
+               </lg>
+               <lg>
+                  <pb n="3" facs="tcp:105465:4"/>
+                  <l>But let all Godly Mirth ſtill be,</l>
+                  <l>your chiefeſt ſolace and delight;</l>
+                  <l>Since he was born to ſet us free,</l>
+                  <l>who now remains in Glory bright.</l>
+               </lg>
+               <lg>
+                  <l>Relieve your Neighbours that are poor,</l>
+                  <l>you are commanded ſo to do,</l>
+                  <l>Out of the plenty of your ſtore,</l>
+                  <l>that they may all rejoyce with you.</l>
+               </lg>
+               <lg>
+                  <l>Thus in your mirth with one accord,</l>
+                  <l>ſee you do all evil ſhun,</l>
+                  <l>And ſing your praiſes to the Lord,</l>
+                  <l>for ſending his beloved Son.</l>
+               </lg>
+               <lg>
+                  <l>He that deſcended from above,</l>
+                  <l>and freely for our Sins has dy'd,</l>
+                  <l>Make him the pattern of our love,</l>
+                  <l>ſo may our joys be ſanctify'd.</l>
+               </lg>
+               <lg>
+                  <l>You that have heard theſe Lines<g ref="char:punc">▪</g> 
+                     <hi>I</hi> pray,</l>
+                  <l>let all your hearts be ſo inclin'd,</l>
+                  <l>To give due honour to this day,</l>
+                  <l>which brought Salvation to Mankind.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:105465:5"/>
+               <head>
+                  <hi>A ſecond</hi> Carrol <hi>for</hi> Chriſtmas-Day.</head>
+               <head type="sub">Tune of, <hi>Over Hills and High Mountains.</hi>
+               </head>
+               <lg>
+                  <l>NOW when <hi>Ioſeph</hi> and <hi>Mary,</hi>
+                  </l>
+                  <l>was to <hi>Bethlehem</hi> bound,</l>
+                  <l>They with travel were weary,</l>
+                  <l>yet no lodging was found</l>
+                  <l>In the City of <hi>David,</hi>
+                  </l>
+                  <l>tho' they ſought it o're all,</l>
+                  <l>They alas could not have it,</l>
+                  <l>but in an Oxe ſtall.</l>
+               </lg>
+               <lg>
+                  <l>Tho' this place was no brave,</l>
+                  <l>but as mean as might be.</l>
+                  <l>Our Redeemer and Saviour,</l>
+                  <l>the great King of Glory:</l>
+                  <l>Then a ſweet Babe of Heaven,</l>
+                  <l>he was born there we find,</l>
+                  <l>Whoſe ſweet life was once given,</l>
+                  <l>for the Sins of Mankind.</l>
+               </lg>
+               <lg>
+                  <l>Whi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt the Shepherds was feeding</l>
+                  <l>of their flocks in the field,</l>
+                  <l>The the Birth of our Saviour,</l>
+                  <l>unto them was reveal'd:</l>
+                  <pb n="5" facs="tcp:105465:5"/>
+                  <l> Many Angels aſſembled,</l>
+                  <l>in their Glory appear,</l>
+                  <l>Whilſt the Shepherds did tremble;</l>
+                  <l>being ſmitten with fear.</l>
+               </lg>
+               <lg>
+                  <l>O forbear to be fearful,</l>
+                  <l>you have reaſon to ſing,</l>
+                  <l>Then rejoyce and be chearful,</l>
+                  <l>we glad tydings do bring;</l>
+                  <l>There is born in the City</l>
+                  <l>of <hi>David,</hi> therefore</l>
+                  <l>Such a Saviour of pitty,</l>
+                  <l>whom we do adore.</l>
+               </lg>
+               <lg>
+                  <l>He's the Prince of Salvation,</l>
+                  <l>then be not afraid,</l>
+                  <l>And with this ſalutation,</l>
+                  <l>to the Shepherds they ſaid;</l>
+                  <l>Be no longer a ſtranger,</l>
+                  <l>for in Swadling-cloaths,</l>
+                  <l>He's laid in a Manger,</l>
+                  <l>then the Shepherds aroſe.</l>
+               </lg>
+               <lg>
+                  <l>Being reſolved together,</l>
+                  <l>they to <hi>Bethelem</hi> go,</l>
+                  <l>
+                     <hi>I,</hi> and when they came thither,</l>
+                  <l>then they found it was ſo:</l>
+                  <l>They in duty adore him,</l>
+                  <l>come where he was laid,</l>
+                  <pb n="6" facs="tcp:105465:6"/>
+                  <l> Straight they fall down before him,</l>
+                  <l>this obedience they made.</l>
+               </lg>
+               <lg>
+                  <l>Nay, the wiſe-men, whoſe prudence,</l>
+                  <l>had diſcover'd this Star,</l>
+                  <l>Came to pay their obedience,</l>
+                  <l>and they travell'd from far;</l>
+                  <l>Bringing with them the choiceſt</l>
+                  <l>what their Country afford,</l>
+                  <l>Of Gold, Mirrh, and Spices,</l>
+                  <l>to preſent to the Lord.</l>
+               </lg>
+               <lg>
+                  <l>Their Example ingages</l>
+                  <l>ev'ry Chriſtian to be</l>
+                  <l>Ever ſince in all ages,</l>
+                  <l>to be noble and free:</l>
+                  <l>Then rejoyce and be merry,</l>
+                  <l>in a moderate way,</l>
+                  <l>Never, never be weary</l>
+                  <l>to honour this day,</l>
+               </lg>
+               <lg>
+                  <l>Which afforded a Bleſsing</l>
+                  <l>to the race of mankind,</l>
+                  <l>Far beyond all expreſsing,</l>
+                  <l>if the ſequel you mind:</l>
+                  <l>While on Earth he was dwelling,</l>
+                  <l>he was ſtill doing good,</l>
+                  <l>Nay his love more excelling,</l>
+                  <l>for he ſhed his own Blood,</l>
+               </lg>
+               <lg>
+                  <pb n="7" facs="tcp:105465:6"/>
+                  <l>To redcem us and ſave us,</l>
+                  <l>from the guilt of our ſin,</l>
+                  <l>For his Love he would have us,</l>
+                  <l>a new life to begin:</l>
+                  <l>And remember the Seaſon,</l>
+                  <l>be kind to the poor,</l>
+                  <l>It is no more then reaſon,</l>
+                  <l>there is bleſſings in ſtore, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>A Carrol for <hi>Chriſtmas-day</hi> at Night.</head>
+               <opener>Tune of, <hi>My Life and my Death.</hi>
+               </opener>
+               <lg>
+                  <l>MY Maſter your Servants</l>
+                  <l>and Neighbours this Night,</l>
+                  <l>Are come to be merry,</l>
+                  <l>with love and delight.</l>
+                  <l>Now therefore be Noble,</l>
+                  <l>and let it appear,</l>
+                  <l>That <hi>Chriſtmas</hi> is ſtill</l>
+                  <l>the beſt time of the Year:</l>
+                  <pb n="8" facs="tcp:105465:7"/>
+                  <l> To ſit by the fire,</l>
+                  <l>rehearſe an old tale,</l>
+                  <l>And taſte of a bumper</l>
+                  <l>of nappy old Ale.</l>
+               </lg>
+               <lg>
+                  <l>It flows from the Barley,</l>
+                  <l>that fruit of the Earth,</l>
+                  <l>Which quickens the fancy,</l>
+                  <l>for paſtime and mirth;</l>
+                  <l>And therefore be jolly,</l>
+                  <l>now each bonny Lad,</l>
+                  <l>For we have no reaſon</l>
+                  <l>at all to be ſad:</l>
+                  <l>Remember the ſeaſon,</l>
+                  <l>and then you'l ne'r fail,</l>
+                  <l>To bring in a bumper</l>
+                  <l>of nappy brown Ale.</l>
+               </lg>
+               <lg>
+                  <l>Now ſome of your dainties,</l>
+                  <l>let us freely taſte,</l>
+                  <l>My ſtomach is ready,</l>
+                  <l>
+                     <hi>I</hi> am now in haſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e;</l>
+                  <l>And therefore ſweet Miſtris,</l>
+                  <l>I hope you'l be brief,</l>
+                  <l>To bring out the Sirloin</l>
+                  <l>or Ribs of Roaſt Beef;</l>
+                  <l>With other choice dainties,</l>
+                  <l>I hope you'l not fail,</l>
+                  <pb n="9" facs="tcp:105465:7"/>
+                  <l> At this happy ſeaſon,</l>
+                  <l>with nappy brown Ale.</l>
+               </lg>
+               <lg>
+                  <l>And now let me tell you</l>
+                  <l>what dainties I prize,</l>
+                  <l>I long to be doing</l>
+                  <l>with curious minc'd-pies;</l>
+                  <l>Where plumbs in abundance,</l>
+                  <l>lies crowding for room,</l>
+                  <l>If I come but near it,</l>
+                  <l>i'le tell you its doom;</l>
+                  <l>I'de ſoon part the quarrel,</l>
+                  <l>but hold, let's not fail,</l>
+                  <l>To think of a bumper</l>
+                  <l>of nappy old Ale.</l>
+               </lg>
+               <lg>
+                  <l>The Pig, Gooſe and Capon,</l>
+                  <l>i'de like to forgot,</l>
+                  <l>But yet I do hope they'l</l>
+                  <l>come all to my lot;</l>
+                  <l>We'l lay a cloſe ſiege</l>
+                  <l>to the walls of the Gooſe,</l>
+                  <l>And ſtorm her ſtrong Caſtle,</l>
+                  <l>there is no excuſe</l>
+                  <l>Shall hinder our fury,</l>
+                  <l>therefore let's not fail,</l>
+                  <l>To have a full bumber</l>
+                  <l>of nappy old Ale.</l>
+               </lg>
+               <lg>
+                  <pb n="10" facs="tcp:105465:8"/>
+                  <l>All thoſe that are willing</l>
+                  <l>to honour this day,</l>
+                  <l>
+                     <hi>I</hi> hope that they never</l>
+                  <l>will fall to decay;</l>
+                  <l>But always be able,</l>
+                  <l>their Neighbours to give,</l>
+                  <l>And keep a good Table,</l>
+                  <l>as long as they live;</l>
+                  <l>That love, peace and plenty,</l>
+                  <l>with them may ne'r fail,</l>
+                  <l>And we may ne'r miſs</l>
+                  <l>of good nappy Ale.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>A Carrol for St. <hi>Stephens</hi> Day.</head>
+               <opener>Tune of, <hi>O cruel Bloody Fate.</hi>
+               </opener>
+               <lg>
+                  <l>SAint <hi>Stephen</hi> did indure,</l>
+                  <l>the bitter pangs of Death,</l>
+                  <l>His Faith did him aſſure</l>
+                  <l>though he reſign'd his breath:</l>
+                  <l>That he ſhould enter into joy,</l>
+                  <l>He was a Martyr mild,</l>
+                  <l>And though they did his life deſtroy;</l>
+                  <l>he never once revil'd.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:105465:8"/>
+               <head>A Carrol for St. <hi>John</hi>'s Day.</head>
+               <opener>Tune of, <hi>Young-Man's Legacy.</hi>
+               </opener>
+               <lg>
+                  <l>BEloved <hi>Iohn,</hi> who once did lean</l>
+                  <l>upon our bleſſed Saviours breaſt,</l>
+                  <l>By him ſome glorious things was ſeen,</l>
+                  <l>and likewiſe he among the reſt,</l>
+                  <l>Did write our bleſſed Saviours word,</l>
+                  <l>which doth remain among us ſtill;</l>
+                  <l>His Laws we have upon Record,</l>
+                  <l>O that we might obey his will.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>A Carrol for <hi>Innocents</hi> Day.</head>
+               <opener>Tune of, <hi>Bloody Fate.</hi>
+               </opener>
+               <lg>
+                  <l>REmember <hi>Herods</hi> rage,</l>
+                  <l>who ſlain thoſe Infants dear,</l>
+                  <l>There nothing could aſſwage</l>
+                  <l>his wrath which was ſevere;</l>
+                  <pb n="12" facs="tcp:105465:9"/>
+                  <l> But ſhedding of thoſe Infants blood,</l>
+                  <l>to end his hateful ſtrife,</l>
+                  <l>That he thereby might cauſe to dye,</l>
+                  <l>the bleſſed Lord of life.</l>
+               </lg>
+               <lg>
+                  <l>An Angel in the night,</l>
+                  <l>warn'd <hi>Ioſeph</hi> in a Dream,</l>
+                  <l>To take a ſpeedy flight,</l>
+                  <l>ſince <hi>Herods</hi> vaſt extream</l>
+                  <l>Of hateful cruelty was ſuch,</l>
+                  <l>to ſeek the Infants life;</l>
+                  <l>Take <hi>Mary</hi> mild and her ſweet Child,</l>
+                  <l>avoid his hateful ſtrife.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>A</hi> Carrol <hi>for</hi> New-Years-<hi>day.</hi>
+               </head>
+               <opener>Tune of, <hi>Caper and jerk it.</hi>
+               </opener>
+               <lg>
+                  <l>THe young men and Maids on <hi>New-years</hi> day,</l>
+                  <l>their loves they will preſent,</l>
+                  <l>With many a Gift both fine and gay,</l>
+                  <l>which gives them true content:</l>
+                  <l>And though the gift be great or ſmall,</l>
+                  <l>yet this is the cuſtom ſtill,</l>
+                  <pb n="13" facs="tcp:105465:9"/>
+                  <l> Expreſſing their loves in Ribbons and Gloves</l>
+                  <l>
+                     <hi>it being their kind good will.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Young Batchelors will not ſpare their Coin</l>
+                  <l>but thus their love is ſhown,</l>
+                  <l>Young <hi>Richard</hi> will buy a Bodkin fine,</l>
+                  <l>and give it honeſt <hi>Ione:</hi>
+                  </l>
+                  <l>There's <hi>Nancy</hi> and <hi>Sue,</hi> with honeſt <hi>Prue,</hi>
+                  </l>
+                  <l>young Damſels both fair and gay,</l>
+                  <l>Will give to the Men choice preſents agen,</l>
+                  <l>
+                     <hi>for the honour of</hi> New-years <hi>day.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Fine Ruffles, Cravats of curious Lace,</l>
+                  <l>Maids give them fine and neat,</l>
+                  <l>For this the Young-men will them imbrace,</l>
+                  <l>with tender kiſſes ſweet:</l>
+                  <l>And give them many pleaſant toys,</l>
+                  <l>to deck them fine and gay,</l>
+                  <l>As Bodkins and Rings with other fine things</l>
+                  <l>
+                     <hi>for the honour of</hi> New-years <hi>day.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>It being the firſt day of the Year,</l>
+                  <l>to make the old amends,</l>
+                  <l>All thoſe that have it, will dreſs good cheer,</l>
+                  <l>inviting of all their Frinds:</l>
+                  <l>To drink Great <hi>Iames</hi>'s Royal Health.</l>
+                  <l>as very well Subjects may,</l>
+                  <l>With many Healths more, which we have ſtore</l>
+                  <l>
+                     <hi>for the Honour of</hi> New-years <hi>day.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:105465:10"/>
+               <head>A Carrol for <hi>Twelfth-Day.</hi>
+               </head>
+               <opener>Tune of, <hi>O Mother, <hi>Roger.</hi>
+                  </hi>
+               </opener>
+               <lg>
+                  <l>SWeet Maſter of this Habitation,</l>
+                  <l>with my Miſtriſs, be ſo kind,</l>
+                  <l>As to grant an Invitation,</l>
+                  <l>if we may this favour find:</l>
+                  <l>To be no invited in,</l>
+                  <l>Then in mirth we will begin</l>
+                  <l>Many of ſweet and pleaſant Song,</l>
+                  <l>Which doth to this time belong,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Let e'ry Loyal honeſt Soul,</hi>
+                     </l>
+                     <l>
+                        <hi>Contribute to the Waſſel Bowl.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>So may you ſtill enjoy the Bleſſing,</l>
+                  <l>of a loving vertuous Wife,</l>
+                  <l>Riches, Honour ſtill poſſeſſing,</l>
+                  <l>with a long and happy life;</l>
+                  <l>Living in Proſperity,</l>
+                  <l>Then let Generoſity,</l>
+                  <l>Always be maintain'd I pray,</l>
+                  <l>Don't forget the good old way,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Let e'ry Loyal honeſt Soul,</hi>
+                     </l>
+                     <l>
+                        <hi>Contribute to the Waſſel-bowl.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <pb n="15" facs="tcp:105465:10"/>
+                  <l>Before this Seaſon is departed,</l>
+                  <l>in your preſence we appear,</l>
+                  <l>Therefore be ſo noble-hearted,</l>
+                  <l>to afford ſome dainty chear;</l>
+                  <l>Freely let us have it now,</l>
+                  <l>Since the Seaſon doth allow,</l>
+                  <l>What the Houſe doth now afford,</l>
+                  <l>Should be plac'd upon the board,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Whether it be Roaſt-beef or Fowl,</hi>
+                     </l>
+                     <l>
+                        <hi>And Liquor well the Waſſel-bowl.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>For now it is a time of leaſure,</l>
+                  <l>then to thoſe that kindneſs ſhow,</l>
+                  <l>May they have Wealth, peace and pleaſure,</l>
+                  <l>and the ſpring of bounty flow,</l>
+                  <l>To enrich them while they live,</l>
+                  <l>That they may afford to give,</l>
+                  <l>To maintain the good old way,</l>
+                  <l>Many long and happy day;</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Let ev'ry Loyal honeſt Soul,</hi>
+                     </l>
+                     <l>
+                        <hi>Contribute to our Waſſel-bowl.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>You worthy are to be commended,</l>
+                  <l>if in this you will not fail,</l>
+                  <l>Now our Song is almoſt ended,</l>
+                  <l>fill our Bowl with nappy Ale;</l>
+                  <l>Then we'l drink a full Carouſe,</l>
+                  <l>To the Maſter of the Houſe,</l>
+                  <pb n="16" facs="tcp:105465:11"/>
+                  <l> Aye, and to our Miſtris dear,</l>
+                  <l>Wiſhing both a happy Year,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>In peace and love without controul,</hi>
+                     </l>
+                     <l>
+                        <hi>Who brought joy to our Waſſel-bowl.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div type="part">
+               <head>A Carrol for <hi>Candlemas-<hi>Day.</hi>
+                  </hi>
+               </head>
+               <opener>Tune of, <hi>Buſie Fame.</hi>
+               </opener>
+               <lg>
+                  <l>NOw <hi>Candlemas</hi> is come at laſt,</l>
+                  <l>therefore my deareſt friend,</l>
+                  <l>Since <hi>Chriſtmas</hi> time is almoſt paſt,</l>
+                  <l>I mean to an end</l>
+                  <l>Of t<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> our mirth and merriment,</l>
+                  <l>a<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d now the truth to tell,</l>
+                  <l>He muſt be from our preſence ſent,</l>
+                  <l>
+                     <hi>O</hi> C<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>riſtmas <hi>now farewel.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Now <hi>Chriſtmas</hi> will no longer ſtay,</l>
+                  <l>my very heart doth grieve,</l>
+                  <l>Before from us he take his way,</l>
+                  <l>of him i'le take my leave:</l>
+                  <l>It is a time none of the leaſt,</l>
+                  <l>as I the truth may tell,</l>
+                  <pb n="17" facs="tcp:105465:11"/>
+                  <l> For him we'l make a worthy Feaſt,</l>
+                  <l>then <hi>Chriſtmas</hi> now farewel.</l>
+               </lg>
+               <lg>
+                  <l>I do declare as I am true,</l>
+                  <l>i'le love him while I dye,</l>
+                  <l>I'le call my Friends and Neighbours too,</l>
+                  <l>to keep him company:</l>
+                  <l>With nappy Ale and dainty Cheer,</l>
+                  <l>our grief we will expel;</l>
+                  <l>And <hi>Chriſtmas</hi> while another year,</l>
+                  <l>wee'l bid thee now farewel.</l>
+               </lg>
+               <lg>
+                  <l>To make our joys the more compleat,</l>
+                  <l>we court the charming bowl,</l>
+                  <l>In Merriment and muſick ſweet,</l>
+                  <l>let e'ry loyal ſoul</l>
+                  <l>Drink off his Glaſs, and let it paſs,</l>
+                  <l>in Mirth we will excel,</l>
+                  <l>In ſweet delight we'l ſpend the night,</l>
+                  <l>then <hi>Chriſtmas</hi> now farewel.</l>
+               </lg>
+               <lg>
+                  <l>With nappy Ale both brown and ſtale,</l>
+                  <l>we'l fill our Bumpers full;</l>
+                  <l>And Pippins too, as I am true,</l>
+                  <l>they make the beſt <hi>Lambs-wool:</hi>
+                  </l>
+                  <l>So faſt and ſmooth it will go down,</l>
+                  <l>thy ſorrow to expel,</l>
+                  <l>And then at laſt, when all is paſt,</l>
+                  <l>
+                     <hi>Chriſtmas</hi> we'l bid farewel.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="18" facs="tcp:105465:12"/>
+               <head>A <hi>Carrol</hi> for <hi>Valentines-Day.</hi>
+               </head>
+               <opener>Tune of, <hi>Ioy to the Bridegroom.</hi>
+               </opener>
+               <lg>
+                  <l>YOung Men and Maids I pray attend.</l>
+                  <l>And liſten here to what is penn'd;</l>
+                  <l>Hereby I do you all adviſe.</l>
+                  <l>This morning when you do ariſe,</l>
+                  <l>To dreſs your ſelf both neat and fine,</l>
+                  <l>To chuſe your loving <hi>Valentine.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>For be ſhe black, or brown, or fair,</l>
+                  <l>If charming love doth thee enſnare,</l>
+                  <l>'Twill make you to your Duty bow,</l>
+                  <l>And reaſon doth the ſame allow;</l>
+                  <l>That it ſhould be your full deſign,</l>
+                  <l>To riſe and chuſe your <hi>Valentine.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Preſenting them with Gloves and Rings,</l>
+                  <l>With Ribbons, Laces, ſuch like things,</l>
+                  <l>Attended with a loving kiſs,</l>
+                  <l>In token of a true loves bliſs;</l>
+                  <l>In which their Hearts doth ſo incline,</l>
+                  <l>For to adore their <hi>Valentine.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="19" facs="tcp:105465:12"/>
+               <head>A Song for <hi>Eaſter.</hi>
+               </head>
+               <opener>Tune of, <hi>The Wandring Iews Chronicle.</hi>
+               </opener>
+               <lg>
+                  <l>WHat joy to Chriſtians now is come,</l>
+                  <l>Death hath receiv'd his final doom,</l>
+                  <l>Chriſt in Triumph doth ride,</l>
+                  <l>Now Death by Death is ſweetly ſlain,</l>
+                  <l>And we in time with Chriſt ſhall reign,</l>
+                  <l>
+                     <hi>his name be glorified.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>O Death, O death, where is thy ſting,</l>
+                  <l>Our Souls to Hell thou canſt not bring,</l>
+                  <l>ſince Chriſt is on our ſide:</l>
+                  <l>He ſuffered Death that we might live,</l>
+                  <l>Life to our Souls he did regive,</l>
+                  <l>
+                     <hi>his name be magnified.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Here's gain enough, and here's no loſs,</l>
+                  <l>Chriſt for our ſake took up the Croſs,</l>
+                  <l>us to redeem he dy'd:</l>
+                  <l>O praiſed be his holy name,</l>
+                  <l>That choſe the Croſs, deſpis'd the ſhame,</l>
+                  <l>
+                     <hi>and now is glorified.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Our only Lord with Thorns was Crown'd,</l>
+                  <l>While Enemies did him ſurround,</l>
+                  <l>yea him they Crucified;</l>
+                  <l>But now he's riſen up again,</l>
+                  <pb n="20" facs="tcp:105465:13"/>
+                  <l> Our Sins he by his Death has ſlain,</l>
+                  <l>
+                     <hi>his name be glorified.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>O ſing then and ſet forth his Name,</l>
+                  <l>Praiſe, land, and eke Extol the ſame,</l>
+                  <l>we ſhall by him be try'd;</l>
+                  <l>'Twas he that for our ſins did dye,</l>
+                  <l>The wrath of God to purifie,</l>
+                  <l>
+                     <hi>but now he's glorified.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>What tongue or pen e're could expreſs,</l>
+                  <l>The joy and eke eternal bliſs,</l>
+                  <l>that he for us did dye;</l>
+                  <l>'Twas not his money but his blood,</l>
+                  <l>Bought Eternal Brother-hood,</l>
+                  <l>
+                     <hi>his neme let's magnifie.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And laſt of all, O come let's ſing,</l>
+                  <l>Unto our God and Heavenly King,</l>
+                  <l>that on the Clouds doth ride,</l>
+                  <l>With Eagles Wings, O let us riſe,</l>
+                  <l>Extol his praiſe above the Skies,</l>
+                  <l>
+                     <hi>whoſe name is glorified.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>O now lets reſt in peace and hope,</l>
+                  <l>Ith ſilly ſub-coeleſtial cope,</l>
+                  <l>by fire let's be try'd;</l>
+                  <l>That when Death mounts on the pale-horſe,</l>
+                  <l>We may aſcend above the croſs,</l>
+                  <l>
+                     <hi>with him be glorified.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:105465:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
